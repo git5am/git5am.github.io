@@ -1,2 +1,2 @@
-# git5am.github.io
-It's...  a website... idk
+# 5amLinks.github.io
+> Just playing around with GitHub pages ^-^
