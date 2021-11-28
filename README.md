@@ -1,2 +1,2 @@
 # 5amLinks.github.io
-> Just playing around with GitHub pages ^-^
+> VitaminCoin URL shortener (to be)
