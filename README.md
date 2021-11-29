@@ -1,2 +1,2 @@
-# 5amLinks.github.io
+# VITC.to
 > VitaminCoin URL shortener (to be)
